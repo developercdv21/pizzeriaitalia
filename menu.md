@@ -49,6 +49,13 @@
 |2. |Minestrone (pomidory, cukinia, marchewka, fasolka szparagowa, zielony groszek, seler)|           |19 zł   |
 |3. |Toscana (jarmuż, cukinia, ziemniaki, seler, cebula, rigatino, fasolka cannellini)    |           |19 zł   |
 
+## Dodatki
+
+1. Cukinia - 5 zł
+2. Karczochy - 6 zł
+3. Krewetki - 10 zł
+
+
 ## Napoje
 
 <img src = "pizzeriaitalia/abhishek-hajare-kkrXVKK-jhg-unsplash.jpg" width = 100>
