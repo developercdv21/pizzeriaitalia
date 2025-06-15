@@ -17,6 +17,18 @@
 |9. |BOLOGNA (sos pomidorowy, ser mozarella, pesto pistacjowe, mortadela bologna, parmezan)      |         |37 zł      | 49 zł        | 59 zł  |
 |10. |4 SERY (sos pomidorowy, mozarella, gorgonzola, mimolette, parmezan)                        |         |30 zł      | 43 zł        | 53 zł  |
 
+## Pizze wegetariańskie
+
+<img src = "pizzeriaitalia/saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpg" width = 200>
+
+|Lp.|Pizza:                                                                                      |rozmiar: | 30 cm     | 50 cm        | 60 cm  |
+|---|--------------------------------------------------------------------------------------------|---------|-----------|--------------|--------|
+|1. |MARGHERITA (sos pomidorowy, ser, oregano)                                                   |         |20 zł      | 40 zł        | 50 zł  |
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)                                                     |         |22 zł      | 42 zł        | 52 zł  |
+|3. |SALAMI (sos pomidorowy, ser, mozarella, sałata)                                             |         |23 zł      | 43 zł        | 53 zł  |
+|4. |VESUVIO (sos pomidorowy, podwójny ser)                                                      |         |24 zł      | 44 zł        | 54 zł  |
+|5. |MILANO (sos pomidorowy, ser, papryka, oregano)                                              |         |26 zł      | 46 zł        | 56 zł  |
+
 ## Pinsa 
 
 <img src = "pizzeriaitalia/karol-chomka-frP9npWCEK4-unsplash.jpg" width = 200>
