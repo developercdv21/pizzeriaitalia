@@ -50,6 +50,7 @@
 |3. |Toscana (jarmuż, cukinia, ziemniaki, seler, cebula, rigatino, fasolka cannellini)    |           |19 zł   |
 
 ## Dodatki
+<img src = "pizzeriaitalia/umesh-soni-JfCHn6H6AHY-unsplash.jpg" width = 200>
 
 1. Cukinia - 5 zł
 2. Karczochy - 6 zł
