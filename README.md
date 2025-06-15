@@ -1,2 +1,2 @@
 # pizzeriaitalia
-Ten plik należy do gałęzi vege
+to jest strona naszej pizzerii.
