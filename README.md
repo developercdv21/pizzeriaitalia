@@ -1,3 +1,2 @@
 # pizzeriaitalia
-To repozytorium zawiera dokumenty i pliki niezbędne do stworzenia najlepszej pizzerii na świecie
-ten plik należy do gałęźi main
+to jest strona naszej pizzerii.
